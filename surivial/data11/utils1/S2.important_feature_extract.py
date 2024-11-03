@@ -97,7 +97,7 @@ if __name__ == '__main__':
     treatment = 'yes'
     WORK_PATH = './'
     n_feature =5
-    Data_path = os.path.join(r'E:\desktop\Ensemble-regression-main\original\data\mircorna-377-1.csv')
+    Data_path = os.path.join(r'E:\desktop\Ensemble-regression-main\original\data\GBM.csv')
     ####################################################################################################################
     vimps_save_dir = os.path.join(WORK_PATH, r'E:\desktop\Ensemble-regression-main\original\vimps\all')
     ####################################################################################################################
